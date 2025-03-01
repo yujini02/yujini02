@@ -16,7 +16,8 @@
 </div>
 
 ## 📫 연락처
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:본인 이메일)](mailto:yujinjeong76@gmail.com)
+
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:yujinjeong76@gmail.com)
 
  
 <!--
