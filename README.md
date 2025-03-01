@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 저는 yujin이에요!  
 이곳은 저의 GitHub 공간이에요. 😊  
 
