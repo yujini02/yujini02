@@ -1,16 +1,18 @@
 ## Hi 👋
 저는 yujin이에요!  
-이곳은 저의 GitHub 공간이에요. 😊  
+이곳은 저의 기술 성장과 프로젝트를 기록하는 GitHub 공간이에요. 😊  
 
-## ✏️Studying 
+## ✏️What I’m Learning
 - Java
-- Database
+- MySQL
+- Vue.js
 
 ## 📚 STACKS
 
 <div align=letf> 
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
